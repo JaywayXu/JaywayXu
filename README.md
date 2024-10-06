@@ -28,6 +28,7 @@ My research interests include:
 - 微信公众号： 演化计算与人工智能
 <img src="image/Wechat.png" alt="微信公众号" style="width: 300px; height: auto;">
 - CSDN: 武科大许志伟 : https://xuzhiwei.blog.csdn.net/
+<br>
 - Email: xuzhiwei@wust.edu.cn
 
 ## 💻 Selected Research Papers
