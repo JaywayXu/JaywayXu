@@ -1,4 +1,4 @@
-# BIO
+## Zhiwei Xu (许志伟)
 
 I am now a lecturer at the School of Computer Science and Technology and the Hubei Provincial Key Laboratory of Intelligent Information Processing and Real-time Industrial Systems, Wuhan University of Science and Technology, Wuhan, China. I have received the B.S. degree in information security from the Wuhan University of Science and Technology, Wuhan, China, in 2017, and the Ph.D. degree in control science and engineering from Wuhan University of Science and Technology, Wuhan, China, in 2022. I was supervised by Professor `Kai Zhang`, who is the `Dean of the Graduate School of Wuhan University of Science and Technology`, the `Dean of the School of Computer Science and Technology at Wuhan University of Science and Technology`, the `Director of the Hubei Provincial Key Laboratory of Intelligent Information Processing and Real-time Industrial Systems` in China. From March to September 2025, I visited the School of Artificial Intelligence and Automation at Huazhong University of Science and Technology as a visiting scholar, under the guidance of Professor `Linqiang Pan`.
 
